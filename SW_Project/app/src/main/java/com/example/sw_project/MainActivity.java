@@ -1,5 +1,4 @@
 package com.example.sw_project;
-import android.view.View;
 import android.os.Bundle;
 
 import com.google.android.material.snackbar.Snackbar;
